@@ -1,6 +1,6 @@
 # conventional-changelog-lint-config-canonical
 
-A shareable [`conventional-changelog-lint`](https://github.com/marionebl/conventional-changelog-lint) configuration for Canonical commit convention.
+A shareable [`conventional-changelog-lint`](https://github.com/marionebl/conventional-changelog-lint) configuration for [Canonical](https://github.com/gajus/canonical) commit convention.
 
 ## Installation
 
