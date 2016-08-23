@@ -1,0 +1,27 @@
+{
+  "name": "conventional-changelog-lint-config-canonical",
+  "version": "1.0.0",
+  "description": "A shareable conventional-changelog-lint configuration for Canonical commit convention.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajus/conventional-changelog-lint-config-canonical.git"
+  },
+  "keywords": [
+    "canonical",
+    "conventional-changelog",
+    "changelog",
+    "commit",
+    "config",
+    "lint"
+  ],
+  "author": {
+    "name": "Gajus Kuizinas",
+    "email": "gajus@gajus.com",
+    "url": "http://gajus.com"
+  },
+  "license": "BSD-3-Clause"
+}

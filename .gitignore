@@ -1,0 +1,10 @@
+node_modules
+*.log
+.*
+!.gitignore
+!.npmignore
+!.conventional-changelog-lintrc
+!.babelrc
+!.travis.yml
+!.flowconfig
+!.README
