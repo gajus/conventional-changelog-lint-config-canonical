@@ -25,4 +25,4 @@ The `conventional-changelog-lint` command line interface reads `.conventional-ch
 ## Rules
 
 * Refer to [`./conventional-changelog-lintrc.json`](./conventional-changelog-lintrc.json) to see the configuration.
-* Refer to [`conventional-changelog-lint#rules`](./https://github.com/marionebl/conventional-changelog-lint/blob/master/documentation/rules.md) to learn the available configurations.
+* Refer to [`conventional-changelog-lint#rules`](https://github.com/conventional-changelog/commitlint/blob/master/docs/reference-rules.md#rules) to learn the available configurations.
